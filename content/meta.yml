@@ -1,0 +1,9 @@
+# most personal metadata can be found in ./resume.json
+
+- description: Portfolio of full stack developer Hoang Mai.
+  title: HoangMai.Dev
+  url: https://hoangcoding.dev
+  availability:
+    status: true
+    available: '👔 Available for new opportunities. <a href="mailto:hoangcoding@gmail.com">Let’s talk</a>!'
+    unavailable: Not available for new projects.
