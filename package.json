@@ -4,8 +4,8 @@
   "description": "Personal Portfolio, Built with Gatsby",
   "version": "0.1.0",
   "homepage": "https://hoangcoding.dev",
-  "repository": "github:hoangcoding/hoang-portfolio",
-  "bugs": "https://github.com/hoangcoding/hoang-portfolio/issues",
+  "repository": "github:hoangcoding/hoangcoding.github.io",
+  "bugs": "https://github.com/hoangcoding/hoangcoding.github.io/issues",
   "license": "MIT",
   "author": "Hoang Mai <hoangcoding@gmail.com>",
   "dependencies": {
